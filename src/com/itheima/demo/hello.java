@@ -6,4 +6,7 @@ public class hello {
         System.out.println("千年等待千年孤独.");
         System.out.println("人在灯火阑珊处观看");
     }
+    public void test(){
+        System.out.println("怎么还没好");
+    }
 }

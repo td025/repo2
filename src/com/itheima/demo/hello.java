@@ -8,5 +8,8 @@ public class hello {
     }
     public void test(){
         System.out.println("怎么还没好");
+        int i =0 ;
+        i += 10;
+        System.out.println(i);
     }
 }
